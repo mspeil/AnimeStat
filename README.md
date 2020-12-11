@@ -1,0 +1,2 @@
+# AnimeStat
+functions for school
